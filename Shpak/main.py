@@ -6,9 +6,6 @@ n = int(input())
 arr = []
 fun_input(arr, n)
 
-#for i in range(0, n):
-#    arr.append(int(input()))
-
 #     чи є нуль нулів
 flag = True
 for i in range(0, n):
